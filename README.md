@@ -22,4 +22,4 @@ mKB is a microservice designed to perform semantic searches on datasets. These d
 3. Locate the unzipped .tar file; this artifact is needed for the edge microservice deployment.
 4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-submenu).
 
-- For additional tutorials, please visit the GitHub repo: [mimOE.ai Developer Guide Github](https://github.com/mimik-mimOE-ai/mimOE-ai-developer-guide)
+- For additional tutorials, please visit the GitHub repo: [mimik ai Developer Guide Github](https://github.com/mimik-mimOE-ai/mimOE-ai-developer-guide)
