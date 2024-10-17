@@ -1,5 +1,5 @@
 # mKB - mimik Knowledge Base Microservice
-mKB is a microservice designed to perform semantic searches on datasets. These datasets are pre-processed, chunked, and indexed by creating vector representations (embeddings) of the documents using the mimik dataset-cli tool.
+mKB is a microservice designed to perform semantic searches on datasets. These datasets are pre-processed, chunked, and indexed by creating vector representations (embeddings) of the documents using the [mimik dataset-cli tool](https://www.npmjs.com/package/@mimik/dataset-cli).
 
 ## Features
 
