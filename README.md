@@ -1,5 +1,5 @@
 # mKB - mimik Knowledge Base Microservice
-mKB is a microservice designed for performing semantic searches on datasets. These datasets are pre-processed, chunked, and indexed by creating vector representations (embeddings) of the documents using the mimik dataset-cli tool.
+mKB is a microservice designed to perform semantic searches on datasets. These datasets are pre-processed, chunked, and indexed by creating vector representations (embeddings) of the documents using the mimik dataset-cli tool.
 
 ## Features
 
@@ -19,5 +19,5 @@ mKB is a microservice designed for performing semantic searches on datasets. The
 
 1. Download the latest .zip file for the most recent release [HERE](https://github.com/edgeMicroservice/mKB/releases).
 2. Unzip the package.
-3. Locate the unzipped .tar file; this is the artifact needed for the edge microservice deployment.
-4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-index).
+3. Locate the unzipped .tar file; this artifact is needed for the edge microservice deployment.
+4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-submenu).
